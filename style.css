@@ -1,0 +1,110 @@
+.logo-font{
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  font-size: 16px;
+}
+
+.bg-navbar{
+  background-color: #853f98; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #853f98 , #b72387, #db2435);
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.navmenu-font{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 11px;
+}
+
+.space-custom{
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+}
+
+.select-font{
+  color:#b72387;
+  border-color: #853f98;
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+.label-font{
+  color: black;
+}
+
+.navbar {
+  margin:0 !important;
+	padding: 0px !important;
+}
+
+.margin-custom{
+  margin-left: 31rem;
+}
+
+.custom-size-img{
+  height: 100px;
+  width: 100px;
+}
+
+.title-custom{
+  color:#8d5da4;
+  font-weight: 600;
+}
+
+p{
+  font-weight: 600;
+}
+
+.title-where{
+  font-size: 300;
+}
+
+.custom-link{
+  text-decoration:none;
+  color: #a5a5a5;
+}
+
+.custom-size-icon{
+  height: 50px;
+  width: 50px;
+}
+
+.text-color-grey{
+  color: #868586;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.ver-line{
+  border-right: 1px solid #d7d6d4;
+}
+
+.hor-line{
+  border-bottom: 1px solid #d7d6d4;
+}
+
+.border-shadow-custom{
+  box-shadow: 5px 10px #888888;
+}
+
+.color-button{
+  background-color: white;
+  color: #868586;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.nav-line{
+  border-right: 1px solid black;
+}
+
+.bg-custom{
+  background-color: #ebebeb;
+}
